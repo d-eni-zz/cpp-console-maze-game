@@ -1,0 +1,8 @@
+﻿  game.cpp
+C:\Users\deniz\source\repos\game\game\game.cpp(262,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\deniz\source\repos\game\game\game.cpp(275,29): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\deniz\source\repos\game\game\game.cpp(275,29): warning C4244:         with
+C:\Users\deniz\source\repos\game\game\game.cpp(275,29): warning C4244:         [
+C:\Users\deniz\source\repos\game\game\game.cpp(275,29): warning C4244:             _Rep=__int64
+C:\Users\deniz\source\repos\game\game\game.cpp(275,29): warning C4244:         ]
+  game.vcxproj -> C:\Users\deniz\source\repos\game\x64\Debug\mini_basic_game.exe
